@@ -1,0 +1,162 @@
+## GLOBAL ##
+- id: "global.home"
+  translation: "Inici"
+
+- id: "global.categories"
+  translation: "Categories"
+
+- id: "global.category"
+  translation: "Categoria"
+
+- id: "global.tags"
+  translation: "Etiquetes"
+
+- id: "global.tag"
+  translation: "Etiqueta"
+
+- id: "global.archives"
+  translation: "Arxiu"
+
+- id: "global.search"
+  translation: "Cerca"
+
+- id: "global.about"
+  translation: "Sobre me"
+
+- id: "global.author_picture"
+  translation: "Foto de l'autor"
+
+- id: "global.share_on"
+  translation: "Comparteix a %s"
+
+- id: "global.mail"
+  translation: "Correu"
+
+- id: "global.rss"
+  translation: "RSS"
+
+- id: "global.search_category"
+  translation: "Cerca categoria"
+
+- id: "global.search_tag"
+  translation: "Cerca etiqueta"
+
+- id: "global.search_date"
+  translation: "Cerca data (AAAA/MM/DD)"
+
+## GLOBAL.POST_FOUND ##
+- id: "global.posts_found.zero"
+  translation: "no s'ha trobat cap article"
+
+- id: "global.posts_found.one"
+  translation: "s'ha trobat 1 article"
+
+- id: "global.posts_found.other"
+  translation: "s'han trobat {n} articles"
+
+## GLOBAL.CATEGORIES_FOUND ##
+- id: "global.categories_found.zero"
+  translation: "no s'ha trobat cap categoria"
+
+- id: "global.categories_found.one"
+  translation: "s'ha trobat 1 categoria"
+
+- id: "global.categories_found.other"
+  translation: "trobades {n} categories"
+
+## GLOBAL.TAGS_FOUND ##
+- id: "global.tags_found.zero"
+  translation: "no s'ha trobat cap etiqueta"
+
+- id: "global.tags_found.one"
+  translation: "trobada 1 etiqueta"
+
+- id: "global.tags_found.other"
+  translation: "trobades {n} etiquetes"
+
+## PAGINATION ##
+- id: "pagination.page"
+  translation: "pàgina {{ .Paginator.PageNumber }}"
+
+- id: "pagination.of"
+  translation: "de {{ .Paginator.TotalPages }}"
+
+- id: "pagination.newer_posts"
+  translation: "MÉS NOUS"
+
+- id: "pagination.older_posts"
+  translation: "MÉS VELLS"
+
+- id: "pagination.previous"
+  translation: "ANTERIOR"
+
+- id: "pagination.next"
+  translation: "SEGÜENT"
+
+## POST ##
+- id: "post.no_title"
+  translation: "sense títol"
+
+- id: "post.categorized_in"
+  translation: "a"
+
+- id: "post.tagged_in"
+  translation: "ETIQUETAT COM"
+
+- id: "post.toc"
+  translation: "Índex"
+
+- id: "post.read_more"
+  translation: "Continua llegint"
+
+- id: "post.go_to_website"
+  translation: "Ves al web"
+
+- id: "post.comment_and_share"
+  translation: "Comenta i comparteix"
+
+## FOOTER ##
+- id: "footer.all_rights_reserved"
+  translation: "Tots els drets reservats"
+
+## DATE ##
+- id: "date.month.january"
+  translation: "Gener"
+
+- id: "date.month.february"
+  translation: "Febrer"
+
+- id: "date.month.march"
+  translation: "Març"
+
+- id: "date.month.april"
+  translation: "Abril"
+
+- id: "date.month.may"
+  translation: "Maig"
+
+- id: "date.month.june"
+  translation: "Juny"
+
+- id: "date.month.july"
+  translation: "Juliol"
+
+- id: "date.month.august"
+  translation: "Agost"
+
+- id: "date.month.september"
+  translation: "Setembre"
+
+- id: "date.month.october"
+  translation: "Octubre"
+
+- id: "date.month.november"
+  translation: "Novembre"
+
+- id: "date.month.december"
+  translation: "Desembre"
+
+# ADDED
+
+- id: "global.contact"
+  translation: "Contacte"
