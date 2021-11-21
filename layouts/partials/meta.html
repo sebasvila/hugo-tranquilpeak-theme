@@ -80,8 +80,8 @@
 {{ $.Scratch.Set "coverImage" (.Params.coverimage) }}
 {{ end }}
 
-<meta property="og:image" content="{{ $.Scratch.Get "coverImage" | relURL }}">
-<meta property="twitter:image" content="{{ $.Scratch.Get "coverImage" | relURL }}">
+<meta property="og:image" content="{{ $.Scratch.Get "coverImage" | absURL }}">
+<meta property="twitter:image" content="{{ $.Scratch.Get "coverImage" | absURL }}">
 {{ end }}
 
 {{ with .Params.thumbnailImage }}
