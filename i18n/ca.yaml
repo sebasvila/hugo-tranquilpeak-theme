@@ -121,40 +121,40 @@
 
 ## DATE ##
 - id: "date.month.january"
-  translation: "Gener"
+  translation: "gener"
 
 - id: "date.month.february"
-  translation: "Febrer"
+  translation: "febrer"
 
 - id: "date.month.march"
-  translation: "Març"
+  translation: "març"
 
 - id: "date.month.april"
-  translation: "Abril"
+  translation: "abril"
 
 - id: "date.month.may"
-  translation: "Maig"
+  translation: "maig"
 
 - id: "date.month.june"
-  translation: "Juny"
+  translation: "juny"
 
 - id: "date.month.july"
-  translation: "Juliol"
+  translation: "juliol"
 
 - id: "date.month.august"
-  translation: "Agost"
+  translation: "agost"
 
 - id: "date.month.september"
-  translation: "Setembre"
+  translation: "setembre"
 
 - id: "date.month.october"
-  translation: "Octubre"
+  translation: "octubre"
 
 - id: "date.month.november"
-  translation: "Novembre"
+  translation: "novembre"
 
 - id: "date.month.december"
-  translation: "Desembre"
+  translation: "desembre"
 
 # ADDED
 
