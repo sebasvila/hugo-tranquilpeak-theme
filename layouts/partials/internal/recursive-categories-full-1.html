@@ -5,7 +5,7 @@
     <a class="link-unstyled" href="{{ .category.name | urlize }}">{{ .category.name }} ({{ .scratch.GetSortedMapValues (replace .category.path " " "/") | len }})</a>
   </h4>
   <ul class="archive-posts">
-    {{ range (.scratch.GetSortedMapValues (replace .category.path " " "/")) }}
+    {{ range sort (.scratch.GetSortedMapValues (replace .category.path " " "/")) "Date" }}
       <li class="archive-post" style="display: list-item;">
         <a class="archive-post-title" href="{{ .RelPermalink }}">{{ .Title }}</a><span class="archive-post-date"> - {{ partial "internal/date" . }}</span>
       </li>
