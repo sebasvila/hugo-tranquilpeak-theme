@@ -190,3 +190,16 @@
 
 - id: "date.month.december"
   translation: "December"
+
+## NEWER STRINGS
+
+- id: "global.contact"
+  translation: "Contact"
+
+- id: "global.instagram"
+  translation: "Instagram"
+
+- id: "global.lang"
+  translation: "English"
+
+

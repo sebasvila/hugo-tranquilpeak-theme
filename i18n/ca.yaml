@@ -156,7 +156,34 @@
 - id: "date.month.december"
   translation: "desembre"
 
-# ADDED
+## ADDED
 
 - id: "global.contact"
   translation: "Contacte"
+
+## NEWER STRINGS
+
+- id: "global.go_to_homepage"
+  translation: "a l'Inici"
+
+- id: "global.open_link"
+  translation: "Obre enllaç"
+
+- id: "global.read_more_about_author"
+  translation: "Sobre l'autor"
+
+- id: "global.instagram"
+  translation: "Instagram"
+
+- id: "global.lang"
+  translation: "Català"
+
+- id: "post.share"
+  translation: "Comparteix"
+
+- id: "post.back_to_top"
+  translation: "al principi"
+
+- id: "global.open_post"
+  translation: "Obre post"
+
